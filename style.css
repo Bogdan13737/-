@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(147, 147, 243);
+}
+
+a{
+    text-decoration: none;
+    border: white 2px solid;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px;
+}
+
+p{
+    font-size: 19px;
+}
+
+h1{
+    font-size: 45px;
+}
+
+a{
+   font-size: 20px; 
+}
+
+h2{
+    font-size: 20px;
+}
